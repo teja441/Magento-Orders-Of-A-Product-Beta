@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Misc_ProductCustomers>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Misc_ProductCustomers>
+    </modules>
+</config>
