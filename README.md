@@ -4,6 +4,12 @@ Magento-Orders-Of-A-Product-Beta
 DESCRIPTION
 
 Orders Of A Product displayed in a custom tab in the manage products page
+
+![Screenshot](http://i.imgur.com/DUFpZfF.png)
+
+![Screenshot](http://i.imgur.com/g0PHPH2.png)
+
+![Screenshot](http://i.imgur.com/Jv29fCX.png)
 ========================================================================
 
 How it Works?
