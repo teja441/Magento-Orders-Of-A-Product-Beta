@@ -75,9 +75,3 @@ http://excellencemagentoblog.com/magento-grid-serializer-admin-tabs-grid
 
 ============
 
-Known Issues:
-==============
-
-The grid is not displayed for the products which donot have any orders.
-
-

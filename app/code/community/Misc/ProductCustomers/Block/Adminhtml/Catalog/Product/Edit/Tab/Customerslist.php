@@ -79,7 +79,7 @@ class Misc_ProductCustomers_Block_Adminhtml_Catalog_Product_Edit_Tab_Customersli
 		$filter_orders=Mage::helper('misc_productcustomers')->getOrders($product->getId());
 		Mage::log($filter_orders,3,'orders_id_products.log');
         $collection = Mage::getResourceModel($this->_getCollectionClass());
-        $collection->addFieldToFilter('entity_id', array('in' =>array('in' => $filter_orders)));
+        $collection->addFieldToFilter('entity_id', array('in' => $filter_orders));
 		/* uncomment to add paytype to the collection and also uncomment the pay type in _prepareColumns() to display on the grid  */
 		//$collection->join(array('payment'=>'sales/order_payment'),'main_table.entity_id=parent_id','method');
 
